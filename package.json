@@ -1,0 +1,13 @@
+{
+  "name": "api-shorts-generator",
+  "version": "1.0.0",
+  "description": "API to genrate a YouTube Shorts video from a web link and an image ",
+  "main": "index.js",
+  "repository": "https://github.com/Alex-Ruzsicska/api-shorts-generator",
+  "author": "Alex Ruzsicska",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
